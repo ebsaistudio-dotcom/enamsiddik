@@ -1,0 +1,6 @@
+{
+  "name": "Katib Media | Enam Bin Siddik",
+  "description": "ইনাম বিন সিদ্দিক — শিক্ষক, গ্রাফিক ডিজাইনার ও এ আই প্রশিক্ষক। কাতিব মিডিয়া - মাদরাসা শিক্ষার্থী ও তরুণদের প্রযুক্তি ও আইটি দক্ষতা বৃদ্ধির উদ্যোগ।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
